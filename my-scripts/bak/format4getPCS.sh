@@ -1,0 +1,1 @@
+ls *.vcf  | awk -F '[c|_|.]' '{print "/home/lavila/projects/282inversions/my-scripts/get_pcs_from_vcf.R /home/lavila/projects/282inversions/output/c"$2"_win_"$4".vcf /home/lavila/projects/282inversions/output/c"$2"_win_"$4".pcs"}' 
