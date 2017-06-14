@@ -1,5 +1,5 @@
 #analyses performed with 
-/iplant/home/shared/panzea/hapmap3/hmp321/unimputed/282_libs_2015/c6_282_onHmp321.vcf.gz
+/iplant/home/shared/panzea/hapmap3/hmp321/unimputed/282_libs_2015/
 
-that I got from dgates
+that I downloaded to  /group/jrigrp/Share/genotypes/282_7X/
 now on  282 symlink
