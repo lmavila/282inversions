@@ -3,3 +3,5 @@
 
 that I downloaded to  /group/jrigrp/Share/genotypes/282_7X/
 now on  282 symlink
+
+ede
